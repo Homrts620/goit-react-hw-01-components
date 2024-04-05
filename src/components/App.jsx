@@ -9,6 +9,7 @@ import { Transactions } from './Transactions/Transactions.jsx';
 
 export const App = () => {
   return (
+    
     <>
       <div
         style={{
